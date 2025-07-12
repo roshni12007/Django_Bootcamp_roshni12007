@@ -170,7 +170,7 @@ On Day 3, we focus on integrating our Django application with a database and tho
 * **Django REST Framework**
 * **RDBMS** (e.g., SQLite - default, PostgreSQL)
 * **NoSQL** (Introduction, if applicable for specific features)
-* **GIT** (Version Control - *future topic*)
+* **GIT** (Version Control)
 ---
 
 ## Getting Started
