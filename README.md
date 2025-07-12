@@ -4,7 +4,8 @@
 
 ## Course Objective
 
-This bootcamp focuses on the **Backend Development and Deployment** phase of the Software Development Life Cycle (SDLC). Our goal is to equip you with the skills to build robust backend systems using **Django Framework**, **RDBMS**, **NoSQL**, **GIT**, **Docker**, and **AWS**, specifically for a Learning Management System (LMS).
+This bootcamp, **organized by our college** and expertly **taught by Praveen Sir**, focused on the **Backend Development and Deployment** phase of the Software Development Life Cycle (SDLC). As an attendee, I've gained practical skills in building robust backend systems using **Django Framework**, **RDBMS**, **NoSQL**, **GIT**, **Docker**, and **AWS**, specifically applied to this Learning Management System (LMS) project, which embodies the core concepts covered in his sessions.
+
 
 ---
 
